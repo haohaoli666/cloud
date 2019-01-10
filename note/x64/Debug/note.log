@@ -1,0 +1,6 @@
+﻿  mainwindow.cpp
+d:\1study\3s\cloud_computing\note\mainwindow.cpp(299): warning C4100: “item”: 未引用的形参
+d:\1study\3s\cloud_computing\note\mainwindow.cpp(355): warning C4100: “item”: 未引用的形参
+d:\1study\3s\cloud_computing\note\mainwindow.cpp(151): warning C4700: 使用了未初始化的局部变量“item”
+d:\1study\3s\cloud_computing\note\mainwindow.cpp(291): warning C4700: 使用了未初始化的局部变量“item”
+  note.vcxproj -> D:\1study\3s\cloud_computing\note\debug\note.exe
